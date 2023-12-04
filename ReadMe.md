@@ -1,8 +1,9 @@
 # Helpful Functions for M365
 Functions to interact with Microsoft 365 fast
 
-# Motivation
+## Motivation
 Outlook and Excel are a distrubing percentage of the global economy
 
-## How to run
+## How to run 
+```sh
 docker-compose up -d
