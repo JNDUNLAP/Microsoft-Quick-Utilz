@@ -1,15 +1,12 @@
-# Ignore compiled Python files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Ignore virtual environment folders (if using virtualenv or venv)
 venv/
 env/
 *.env
 
-# Ignore user-specific IDE and text editor settings
 .vscode/
 .idea/
 *.swp
@@ -18,10 +15,8 @@ env/
 *.bak
 *.tmp
 
-# Ignore log files
 *.log
 
-# Ignore Python dependency directories
 lib/
 lib64/
 dist/
